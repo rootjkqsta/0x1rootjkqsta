@@ -1,7 +1,8 @@
-Hello I'm rootjkqsta. I will be posting blogs here.
-Including Bug Bounty Hunting,Web App Penetration testing,
-Coding with Python,PHP,JS, Reverse engineering,Binary Exp,
-0day hunting and a lot of more.Hope you will like it.
-Also I will be posting my projects.Twitter
-is in my biography by the way. If you want to contact me.
+Hello I'm rootjkqsta. I am Bug Bounty Hunter for H1, Security Researcher, Pentester and I'm inspiring DevOps engineer. I post various blogs on my medium website and on my hashnode. There's a HackTheBox writeups, NahamCon CTF 2022 writeup of Web Exploitation challenges and Cyber Apocalypse CTF 2022 on my hashnode. Here's my blogging links:
+
+
+Hashnode: https://0x1rootjkqsta.hashnode.dev/
+
+
+Medium: https://medium.com/@0x1rootjkqsta
  
